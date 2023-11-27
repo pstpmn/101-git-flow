@@ -1,1 +1,1 @@
-console.log("hello payment")
+console.log("file payment.js")
